@@ -1,6 +1,5 @@
 # opencv_sample<br>
 ========<br>
-
 python<br>
 
 pythonのOpenCV3サンプル<br>
